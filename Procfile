@@ -1,0 +1,1 @@
+web: gunicorn paragraph.wsgi --log-file -
